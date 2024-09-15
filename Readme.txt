@@ -1,0 +1,6 @@
+This is a thrown together solution for flight sim rudder pedals that I spent about a month on and off making in Fusion 360 and using the Joystick library for Arduino Leonardo. It's nowhere near as robust as an off the shelf purchased product from the likes of win wing and virpil, but I really wanted a linear pedal (not something that pivoted) and from my ~1 year of use so far it's been fine so long as I'm gentle with my inputs. It also came out to be cheaper than the budget off the shelf options.
+
+The pedals themselves are originally from: https://www.thingiverse.com/thing:4550372 
+I have significantly shortened the lever that connects to the pedals themselves. Additionally the heel plate and toe plate were made specifically for this application. I just hot glued/super glued the plates where I desired and they've held up alright. The spring kit I got off Amazon didn't sit well back to back so I made a simple washer/spacer that allows for two to be stacked back to back on the plunger to provide additional resistance. Original files relating to the pedals must be found at their creator's thingiverse link.
+
+Please note that this is just a hobbyist project, and I can't make any guarantees following what I've done will get you results you are happy with yourself.
